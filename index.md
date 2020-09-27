@@ -1,4 +1,6 @@
-![me](https://github.com/potrzebie-glitch/potrzebie-glitch.github.io/blob/master/magn.png)
+<p align="right">
+  <img src="https://github.com/potrzebie-glitch/potrzebie-glitch.github.io/blob/master/magn.png" alt="me"/>
+</p>
 
 ## Articles
 * [On Adaptive Boosting for System Identification](https://ieeexplore.ieee.org/document/8066449)
