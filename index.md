@@ -1,6 +1,8 @@
-<p align="right">
+<p align="left">
   <img src="https://github.com/potrzebie-glitch/potrzebie-glitch.github.io/blob/master/magn.png" alt="me"/>
 </p>
+Hi, I am interested in the theory and application of machine learning. 
+
 
 ## Articles
 * [On Adaptive Boosting for System Identification](https://ieeexplore.ieee.org/document/8066449)
