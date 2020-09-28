@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/potrzebie-glitch/potrzebie-glitch.github.io/blob/master/magn.png" alt="me"/>
+  <img src="magn.png" alt="me"/>
 </p>
 Hi, I am interested in the theory and application of machine learning. 
 
