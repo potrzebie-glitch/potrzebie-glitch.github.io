@@ -10,7 +10,7 @@ Hi, I am interested in identification and control of stochastic dynamical system
 ## Projects
 * [KTH Research Concept Vehicle Autonomous Path Following](https://www.semanticscholar.org/paper/KTH-Research-Concept-Vehicle-Autonomous-Path-Belv%C3%A9n-Bjurgert/1ddc24d2d30669b70811d576b28ee841d92dc38d)
 * [State estimation using accelerometer and gyroscope](assets/selfbalance.pdf)
-* [Going beyond the particle filter and the extended kalman filter](applied_estimation.pdf)
+* [Going beyond the particle filter and the extended kalman filter](assets/applied_estimation.pdf)
 
 ## Selected Presentations
 * [Applying ML to business problems at LeoVegas](https://www.youtube.com/watch?v=xMTtOv-IhaE&ab_channel=HyperightAB)
