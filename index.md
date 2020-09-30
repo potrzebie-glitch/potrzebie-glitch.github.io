@@ -1,7 +1,7 @@
 <p align="left">
   <img src="magn.png" alt="me"/>
 </p>
-Hi, I am interested in the theory and application of machine learning. 
+Hi, I am interested in inference and control of stochastic dynamical systems as well as applications of machine learning and optimization (e.g. robotics and quantitative finance).
 
 
 ## Articles
