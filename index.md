@@ -1,7 +1,7 @@
 <p align="left">
   <img src="magn.png" alt="me"/>
 </p>
-Hi, I am interested in identification and control of stochastic dynamical systems as well as applications in machine learning (e.g. from robotics and quantitative finance).
+Hi, I am interested in identification and control of stochastic dynamical systems as well as applications in machine learning (e.g. from robotics, music and quantitative finance).
 
 ## Articles
 * [On Adaptive Boosting for System Identification](https://ieeexplore.ieee.org/document/8066449)
